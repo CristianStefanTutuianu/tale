@@ -4,7 +4,7 @@ title: "Leadership - the multiplier effect"
 author: "Stefan"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: copy.jpg
 ---
 
 This is a book I randomly picked while on a flight to Portugal. Not my style, but I was surprised to find a leisure style, exactly the kind of book you would read if you are on vacation, have a curiosity for leadership and just love people as much as I do! This is my first post, just heads up, I tend to mambo-jumbo what the author says with what I think. 
