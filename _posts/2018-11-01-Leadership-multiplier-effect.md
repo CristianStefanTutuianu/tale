@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leadership - the multiplier effect"
+title: "Leadership - the multiplier effect @Andy Cope"
 author: "Stefan"
 categories: journal
 tags: [leadership, motivational, life]
@@ -20,6 +20,6 @@ I think this is one of the pillars in every strategic plan. Let's say we speak c
 Another way to put this: There are so many things you can do, and just a few NO-NOs. If you can identify the no-nos, then you'll be astonishingly right most of the times. That easy!
 
 ## Leadership isn't about what happens when you're there. It's about what happens when you're not.
-Two things here. First, motivation should be intrinsic. Whainsicah? Yeah, check this out. What's the role of a leader? Say a manager, from Andy, it seems to be that of motivating people to go past and beyond their job description. How can this be done? Well, not with punishment - remember: choose what not to do. Punishment uselessness is most famous exemplified by a study where two groups of kids were left alone in a room, each kid with a candy and two promises. First group: if you don't eat it in the next 10 minutes, you're going to get an extra one. Second group: if you eat it in the next 10 minutes you'll be sent to your room for the rest of the day. Guess which group got a little chubby?
+Two things here. First, motivation should be intrinsic. What? Yeah, check this out. What's the role of a leader? Say a manager, from Andy, it seems to be that of motivating people to go past and beyond their job description. How can this be done? Well, not with punishment - remember: choose what not to do. Punishment uselessness is most famous exemplified by a study where two groups of kids were left alone in a room, each kid with a candy and two promises. First group: if you don't eat it in the next 10 minutes, you're going to get an extra one. Second group: if you eat it in the next 10 minutes you'll be sent to your room for the rest of the day. Guess which group got a little chubby?
 
 Second point is that you should show your intrinsic motivation and how it gets you to be awesome because you have it. The rest will follow.
