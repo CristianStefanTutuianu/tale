@@ -3,4 +3,10 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+If you feel like bothering me, we can get in touch:
+
+[email](mailto:tutuianucstefan@gmail.com)
+
+[linkedin](https://www.linkedin.com/in/stefan-cristian-74323190/)
+
+[github](https://github.com/CristianStefanTutuianu)
