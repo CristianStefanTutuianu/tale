@@ -3,7 +3,7 @@ layout: post
 title: "Leadership - the multiplier effect"
 author: "Stefan"
 categories: journal
-tags: [leadership,motivational,vision,strategy]
+tags: [documentation,sample]
 image: copy.jpg
 ---
 
