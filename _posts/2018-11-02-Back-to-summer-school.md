@@ -17,37 +17,30 @@ off from my former high-school.
 
 ## The 16 hours work day
 
-So where do I start? If anything, I started picturing how what making a difference would feel like for my curious minds. I needed a vision and some advertising. I needed a plan which must include everybody attending.
+So where do I start? If anything, I started picturing myself as a 14 year old. What would have made me grow back then? I obiously needed a vision and some advertising.
 
 Some say being a leader doesn't require you to inspire people, but rather getting yourself inspired by them. That might sound like a cliche, but think about it. If by what you do, you get people so caught up in the process that they surprise you with devotion, creativity, curiosity and so on it means you managed to lead a vision past the inter-subjective label attached with the initial offering.
 
-Since it was the first time I was organising this kind of event, I started drafting a vision which eventually got to be: "Programming is empowering, rewarding and ultimately fun. Anybody can do it!" Then values and motivation followed. It was a
+Since it was the first time I was organising this kind of event, I started drafting a vision which eventually got to be: "Programming is empowering, rewarding and ultimately fun. Anybody can do it!" Then values and motivation followed.
 
-It was a joy to then see secondary school kids working alongside high-school kids. Of course, that meant a lot of variation in emotional & cognitive development for each and every kid. This was perfect, exactly life.
+It was a joy to then see secondary school kids working alongside high-school kids and having fun while doing so. Of course, that meant a lot of variation in emotional & cognitive development for each and every kid. Perfect, exactly what life is like. And this is what they've accomplished in 12 hours we spent together. Isn't it pure awesomeness? Kudos to them all! 
+
+[CNDC Game - level one](https://cristianstefantutuianu.github.io/labuldeinfo/)
+[CNDC Game - level two](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
+
+## Learnings
+
+During the 3 days and even before I worked 24/7. I slept little, yet I enjoyed it 100%. I wanted it to be perfect, even knowing
+that it is unatainable. I got unhoped help from a former high-school friend, pure awesomeness again. A real hero and a big heart!
+
+Most workshops don't focus on the individual, I didn't like that. I've tried to split my time to each and every. That thing takes time. Heck, last day we had corporate-like 1-1, with feedback for each one of them. And they loved it. Of course, nowadays data matters, even as little as data coming from 30 kids. So at the end, I surveyed what we did, and man did learn a thing or two: about the Romanian education system, about them, their fears, dreams and hopes and about myself. 
 
 
-...
-
-
-This is what a group of 32 awesome kids managed to do in 12 hours of coding. From scratch! Isn't it pure awesomeness? Kudos to them all!
-
-[level one](https://cristianstefantutuianu.github.io/labuldeinfo/)
-
-[level two](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
-
-## Teaching plan
-
-### Day 1
+First thing I say when I see so many curious eyes: Which one of you is thinking to pursue a programming career? Five shy hands raised. Without bragging this is what kids said at the end:
 TBD
 
-### Day 2
+## Romania this is on you now
 TBD
 
-### Day 3
-TBD
 
-## Conclusions
-Children are a joy if you know to make them feel valued
-Creativity at 10 - 12 - 15 is a weapon which should not be taken by a stiffen, rugged education system.
 
-TBD - Include data from children

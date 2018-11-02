@@ -7,7 +7,7 @@ tags: [leadership, motivational, life]
 image: copy.jpg
 ---
 
-This is a book I randomly picked while on a flight to Portugal. Not my style, but I was surprised to find a leisure style, exactly the kind of book you would read if you are on vacation, have a curiosity for leadership and just love people as much as I do! This is my first post, just heads up, I tend to mambo-jumbo what the author says with what I think.
+This is a book I picked while on a flight to Portugal. Not my style, but I was surprised to find a leisure style, exactly the kind of book you would read if you are on vacation, have a curiosity for leadership and need a bit of relaxation...
 
 # Ideas and tips:
 
