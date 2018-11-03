@@ -23,10 +23,10 @@ Some say being a leader doesn't require you to inspire people, but rather gettin
 
 Since it was the first time I was organising this kind of event, I started drafting a vision which eventually got to be: "Programming is empowering, rewarding and ultimately fun. Anybody can do it!" Then values and motivation followed.
 
-It was a joy to then see secondary school kids working alongside high-school kids and having fun while doing so. Of course, that meant a lot of variation in emotional & cognitive development for each and every kid. Perfect, exactly what life is like. And this is what they've accomplished in 12 hours we spent together. Isn't it pure awesomeness? Kudos to them all! 
+It was a joy to then see secondary school kids working alongside high-school kids and having fun while doing so. Of course, that meant a lot of variation in emotional & cognitive development for each and every kid. Perfect, exactly what life is like. And below is what they've accomplished in 12 hours we spent together. Isn't it pure awesomeness? Kudos to them all! 
 
-[CNDC Game - level one](https://cristianstefantutuianu.github.io/labuldeinfo/)
-[CNDC Game - level two](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
+[**CNDC Game - level on**](https://cristianstefantutuianu.github.io/labuldeinfo/)
+[**CNDC Game - level two**](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
 
 ## Learnings
 
