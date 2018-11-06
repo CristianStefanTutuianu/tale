@@ -7,9 +7,11 @@ tags: [teaching, motivational, smoking, quit]
 image: smoking.png
 ---
 
-## Why I did stop smoking and how you can do it too!
+## How did I stop smoking and how you can do it too...
 
-It took one funeral, my grandpa's, a video with his struggle and a bit of guilt driven research. He died of lung cancer. It was shitty, to sum it up. On top, consider the prospects of future kids, future kids growing without a dad, or worse, a dad unable to provide, a mom who forgot how happy really feels like and so on.
+I promise you, it's not another one of those, rather, just an honest view on the matter which might be useful to some given I have 10 years of smoking tied to my lungs. So how do you do it?!
+
+It took me: one funeral, my grandpa's, a video with his struggle and a bit of guilt driven research. He died of lung cancer. It was shitty, to sum it up. On top, consider the prospects of future kids, future kids growing without a dad, or worse, a dad unable to provide, a mom who forgot how happy really feels like and so on.
 
 Statistics say 24% of the smoking population in my age category end up with a form of cancer due to smoking. That a risk worth taking? I don't think so. 
 
