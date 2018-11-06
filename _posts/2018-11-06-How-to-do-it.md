@@ -23,11 +23,11 @@ In order to do it, you need to re-wire yourself. This is my second and last atte
 
 Somebody dear, special, lover, kids, parents, friend. It has to be somebody you care deeply about. Every time you have an impulse for smoking, bring out the picture of that person. Picture your future together,  picture great memories ahead. Pause! Now, picture your funeral while not being able to comfort him/her. If that gets boring, try to rationally explain to that person why you chose to live less, despite every good reason he/she gave you. 
 
-### Speak up.
+### Speak up!
 
 There will be moments, moments when being rational will fail you. Call your anchor/s, be open. Ask him/her for a good reason you should not smoke. Why this will work? Let's dig a little on what a cigarette does: a simple instant gratification mechanism. You smoke, you get your serotonine up. Guess what, somebody dear can give you about the same, even better, free of charge.
 
-### You never smoked.
+### You never smoked!
 
 It was a bad dream. You might find yourself dreaming about these orange but suckers. That's fine, it's part of your old self. If you wake up just after, be glad, it was just a bad dream. You need to internalise this. Harari speaks about delusion, made up concepts and so on. If you admit Facebook is an entity, but also realise that it is a very complex inter-subjective entity made up by a working set of laws and regulations, you can also trick yourself into believing you never ever smoked. 
 
