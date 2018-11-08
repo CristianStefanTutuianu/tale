@@ -13,16 +13,18 @@ When I was a kid I had no clue what to do when I grow up. So I looked at which j
 
 That was when I discovered the value in mentorship and learning from other people mistakes. That's when I was told and actually listened to: It does not matter where you come from and who you are, if you put your everything, you'll get what you want. And so I did and I never stopped ever since.
 
+## Timeline
 
 __Septemeber 2013__ Started Computer Science Bachelors Degree @University of Manchester
-
 __July 2014__ Landed first field related job @TranquilPC
-
 __Sepember 2014__ Becomes student ambassador for University of Manchester
+__September 2015__ Joins Metafused as Software Engineer - ML start-up @Manchester
+__July 2016__ Graduates @University of Manchester
+__January 2017__ Joins Amazon Prime Video as SDE @London
+__July 2018__ Gets promoted to SDE II 
 
-__September 2015__ Joins Metafused - ML start-up @Manchester
+## Achievements
 
-__January 2017__ Joins Amazon Prime Video @London
 
 # Charity & Pro bono
 
