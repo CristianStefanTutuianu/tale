@@ -13,18 +13,20 @@ __Septemeber 2013__ - __July 2016__ Bachelors of Computer Science
   - Student Ambassador
   - Top final year thesis - [sentiment analysis on social media](http://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-projects/2016/cristian-stefan.tutuianu.pdf)
 
-__July 2014__ Landed first cool job - Computer technician @TranquilPC
-  - Learned how fun computers are, but mostlu clusters, which I built
+__July 2014__ Computer technician @TranquilPC
+  - Learned how fun computers are, but mostly clusters, which I built
 
-__September 2015__ - __December 2016__ Metafused, Software Engineer @Manchester
-  - My first real job, here I met [Paul Maddox](https://www.linkedin.com/in/paulmaddox/) - my first boss and mentor. Great guy, awesome programmer, inspiring figure.
+__September 2015__ - __December 2016__ Software Engineer @Metafused
+  - My first real job, here I met [Paul Maddox](https://www.linkedin.com/in/paulmaddox/) - my first manager & mentor. Great guy, awesome programmer, inspiring figure.
   - I wrote some code, some data anlytics modules, sentiment analysis ones and social media API integration.
 
-__January 2017__ - __Present__ JAmazon Prime Video as SDE @London
+__January 2017__ - __Present__  SDE @Amazon Prime Video
   - Picks up on Java, Spring, Lua, JS, TS, React, Node & Jest
-  - October 2018 - Launched Amazon Prime Video on AppleTV. [I hear people loved it]()
-  - July 2018 - Gets promoted to SDE II
-  
+  - Meets Andrea, Principal @Improbable now: an insipiring, eye catching, always happy dude. My second mentor & friend this time.
+  - October 2018 - Launched Amazon Prime Video on AppleTV. [I hear people loved it, so much it was most downloaded app at launch](https://techcrunch.com/2017/12/19/amazons-prime-video-app-becomes-the-most-downloaded-apple-tv-app-to-date/?guccounter=1)
+  - July 2018 - Gets promoted to SDE II. Bigger problems, better problems.
+  - August 2018 - Holds place for his manager. Loves it, decides career path.
+ 
 # Charity & Pro bono
 
 __August 2012__ - I laugh, you laugh, everybody laugh 
@@ -38,12 +40,7 @@ __October 2018__ - "Building the next UX Prime Video application"
 
 # My stuff
 
-I love life, and I can never get bored. Besides tinkering & designing great code for great people I also do a bit of the following:
-
-  - mandatory reading - I love picking up on modern authors who are still alive
-  - mandatory music - I play two instruments: guitar - started as a mean to pick up girls and drums
-  - mandatory gym - Mens sana in corpore sana, right?!
-  
+I love life, and I can never get bored. Besides tinkering with code I am also a human being, which means I like other stuff too. Besides the casual stack: music, movies, reading - where I can never get to finish all the books I want to, I also play a couple of instruments, hit the gym six times a week, play squash, ocasionally run and as ocasionally get out in the nature.
 
 
 
