@@ -41,9 +41,13 @@ __October 2018__ - "Building the next UX Prime Video application" - CS Talk @UCL
 # My stuff
 
 I love life, and I can never get bored. Besides tinkering & designing great code for great people I also do a bit of the following:
+
   -> mandatory reading - I love picking up on modern authors who are still alive
+  
   -> mandatory music - I play two instruments: guitar - started as a mean to pick up girls and drums
+  
   -> mandatory gym - Mens sana in corpore sana, right?!
+  
 
 
 
