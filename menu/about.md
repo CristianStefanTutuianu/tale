@@ -5,7 +5,7 @@ title: My life so far...
 
 Hello! You're here because you're looking to hire me, or work with me or just curious on how my life has been so far. In a nutshell, I love technology, which is a bit of an accident, so to speak. 
 
-When I was a kid I had no clue what I want to be when I grow up. My grandpa taught me to follow my dreams... [READ MORE]()
+When I was a kid I had no clue what I want to be when I grow up. My grandpa taught me to follow my dreams... [READ MORE](http://cristianstefan.me/menu/contact.html)
 
 ## Timeline
 
