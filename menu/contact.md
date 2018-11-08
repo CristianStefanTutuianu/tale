@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-If you feel like bothering me, we can get in touch:
+I see you want us to get in touch! I'm excited, find me here:
 
 [email](mailto:tutuianucstefan@gmail.com)
 
