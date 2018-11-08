@@ -34,9 +34,14 @@ __July 2018__ Gets promoted to SDE II
 
 # Charity & Pro bono
 
-__August 2012__ - I laugh, you laugh, everybody laugh NGO @Turkey, Trabzon
-__August 2018__ - "Excellence in Education" - summer school in partnership with Romanian Education Ministry
-__October 2018__ - "Building the next UX Prime Video application" - CS Talk @UCL
+__August 2012__ - I laugh, you laugh, everybody laugh 
+  - NGO project in partnership with 6 countries @Turkey, Trabzon
+
+__August 2018__ - "Excellence in Education" 
+  - summer school in partnership with Romanian Education Ministry
+
+__October 2018__ - "Building the next UX Prime Video application" 
+  - CS Talk @University College London
 
 # My stuff
 
