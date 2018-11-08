@@ -27,18 +27,21 @@ __January 2017__ - __Present__  SDE @Amazon Prime Video
   - July 2018 - Gets promoted to SDE II. Bigger problems, better problems.
   - August 2018 - Holds place for his manager. Loves it, decides career path.
  
-# Charity & Pro bono
+## Charity & Pro bono
 
 __August 2012__ - I laugh, you laugh, everybody laugh 
   - NGO project in partnership with 6 countries @Turkey, Trabzon
 
 __August 2018__ - "Excellence in Education" 
   - summer school in partnership with Romanian Education Ministry
+  
+__Septemeber 2018__ - Fun code month
+  - While sipping a mug of coffee with my best friend [Matei]() we were shocked to find out it's been 4 months since any of us was on a date. As dating apps don't work, not for guys who are not willing to pay, we ... code our way to some dates. Used the opportunity to get familiar with webpack, babel, typescript & jest. [Here's a little bot](https://github.com/CristianStefanTutuianu/plusyou) for a popular dating site, Matei & I wrote on a rainy Saturday.
 
 __October 2018__ - "Building the next UX Prime Video application" 
   - CS Talk @University College London
 
-# My stuff
+## My stuff
 
 I love life, and I can never get bored. Besides tinkering with code I am also a human being, which means I like other stuff too. Besides the casual stack: music, movies, reading - where I can never get to finish all the books I want to, I also play a couple of instruments, hit the gym six times a week, play squash, ocasionally run and as ocasionally get out in the nature.
 
