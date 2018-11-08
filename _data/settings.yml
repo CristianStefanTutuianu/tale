@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Life so far', path: 'menu', url: 'about.html'}
 - {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
