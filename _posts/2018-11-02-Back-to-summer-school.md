@@ -25,8 +25,10 @@ Since it was the first time I was organising this kind of event, I started draft
 
 It was a joy to then see secondary school kids working alongside high-school kids and having fun while doing so. Of course, that meant a lot of variation in emotional & cognitive development for each and every kid. Perfect, exactly what life is like. And below is what they've accomplished in 12 hours we spent together. Isn't it pure awesomeness? Kudos to them all! 
 
-[**CNDC Game - level on**](https://cristianstefantutuianu.github.io/labuldeinfo/)
-[**CNDC Game - level two**](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
+ [**CNDC Game - level two**](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
+
+ [**CNDC Game - level on**](https://cristianstefantutuianu.github.io/labuldeinfo/)
+
 
 ## Learnings
 
