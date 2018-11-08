@@ -16,12 +16,18 @@ That was when I discovered the value in mentorship and learning from other peopl
 ## Timeline
 
 __Septemeber 2013__ Started Computer Science Bachelors Degree @University of Manchester
+
 __July 2014__ Landed first field related job @TranquilPC
+
 __Sepember 2014__ Becomes student ambassador for University of Manchester
+
 __September 2015__ Joins Metafused as Software Engineer - ML start-up @Manchester
+
 __July 2016__ Graduates @University of Manchester
+
 __January 2017__ Joins Amazon Prime Video as SDE @London
-__July 2018__ Gets promoted to SDE II 
+
+__July 2018__ Gets promoted to SDE II
 
 ## Achievements
 
