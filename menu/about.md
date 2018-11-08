@@ -1,37 +1,35 @@
 ---
 layout: page
-title: My life so far!
+title: My life so far...
 ---
 
-# Career
+Hello! You're here because you're looking to hire me, or work with me or just curious on how my life has been so far. Here:
 
-Hi! This might seem odd to you, yet I can't rest. I have a high work tolerance and I get my energy from achieving. 
+In a nutshell, I love technology, which is a bit of an accident, so to speak. 
 
-I love technology and that is an accident, so to speak. 
+When I was a kid I had no clue what I want to be when I grow up. My grandpa taught me to follow my dreams. When I was six, my dreams were the lizards you could find in the fields of Ploiesti outskirts. And so I learned how to catch them. Most people were affraid, disgusted or simply could not understand the beauty of chasing and failing and chasing and eventually with a bit of luck getting that good looking one. Heck, I built what I used to call  "A mini Jurassic Park". That's about who I am.
 
-When I was a kid I had no clue what to do when I grow up. So I looked at which jobs pay well. Computer Science seemed to be a good investment. Up until my 3rd year in university there was nothing remarkable about my relationship with tech. And then reality hit, a reality that took me from a barely passing student to a solid first class. 
+I've got in touch with Computer Science as an out of poverty solution. Back in 2012, I did not know I would get to love, sleep, eat and breathe technology. It was a rather fortunate and a lucky decision. Today I have a degree from this awesome place where they study the [human brain - spinnaker project - @University of Manchester](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/)  and a few years of experience working with and for start-ups and tech giants. 
 
-That was when I discovered the value in mentorship and learning from other people mistakes. That's when I was told and actually listened to: It does not matter where you come from and who you are, if you put your everything, you'll get what you want. And so I did and I never stopped ever since.
 
 ## Timeline
 
-__Septemeber 2013__ Started CS Bachelors Degree @UoM
+__Septemeber 2013__ - __July 2016__ Bachelors of Computer Science 
+  - Student Ambassador
+  - Top final year thesis - [sentiment analysis on social media](http://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-projects/2016/cristian-stefan.tutuianu.pdf)
 
-__July 2014__ Landed first field related job @TranquilPC
+__July 2014__ Landed first cool job - Computer technician @TranquilPC
+  - Learned how fun computers are, but mostlu clusters, which I built
 
-__Sepember 2014__ Becomes student ambassador @UoM
+__September 2015__ - __December 2016__ Metafused, Software Engineer @Manchester
+  - My first real job, here I met [Paul Maddox](https://www.linkedin.com/in/paulmaddox/) - my first boss and mentor. Great guy, awesome programmer, inspiring figure.
+  - I wrote some code, some data anlytics modules, sentiment analysis ones and social media API integration.
 
-__September 2015__ Joins Metafused, Software Engineer @Manchester
-
-__July 2016__ Graduates @UoM
-
-__January 2017__ Joins Amazon Prime Video as SDE @London
-
-__July 2018__ Gets promoted to SDE II
-
-## Achievements
-
-
+__January 2017__ - __Present__ JAmazon Prime Video as SDE @London
+  - Picks up on Java, Spring, Lua, JS, TS, React, Node & Jest
+  - October 2018 - Launched Amazon Prime Video on AppleTV. [I hear people loved it]()
+  - July 2018 - Gets promoted to SDE II
+  
 # Charity & Pro bono
 
 __August 2012__ - I laugh, you laugh, everybody laugh 
