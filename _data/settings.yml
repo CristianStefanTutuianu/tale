@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: ''
 
-google-ID: 'UA-112060364-1'
+google-ID: 'UA-128941388-1'
 
 menu:
 - {name: 'Life so far', path: 'menu', url: 'about.html'}
