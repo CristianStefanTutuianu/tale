@@ -18,7 +18,7 @@ __July 2014__ Computer technician @TranquilPC
 
 __September 2015__ - __December 2016__ Software Engineer @Metafused
   - My first real job, here I met [Paul Maddox](https://www.linkedin.com/in/paulmaddox/) - my first manager & mentor. Great guy, awesome programmer, inspiring figure.
-  - I wrote some code, some data anlytics modules, sentiment analysis ones and social media API integration.
+  - I wrote some code, some data analytics modules, sentiment analysis ones and social media API integration. Had fun!
 
 __January 2017__ - __Present__  SDE @Amazon Prime Video
   - Picks up on Java, Spring, Lua, JS, TS, React, Node & Jest
@@ -26,6 +26,7 @@ __January 2017__ - __Present__  SDE @Amazon Prime Video
   - October 2018 - Launched Amazon Prime Video on AppleTV. [I hear people loved it, so much it was most downloaded app at launch](https://techcrunch.com/2017/12/19/amazons-prime-video-app-becomes-the-most-downloaded-apple-tv-app-to-date/?guccounter=1)
   - July 2018 - Gets promoted to SDE II. Bigger problems, better problems.
   - August 2018 - Holds place for his manager. Loves it, decides career path.
+  - Now, I'm owning the fun out of my job!
  
 ## Charity & Pro bono
 
