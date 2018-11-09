@@ -46,7 +46,7 @@ __October 2018__ - "Building the next UX Prime Video application"
 
 ## My stuff
 
-I love life, and I can never get bored. Besides tinkering with code I am also a human being, which means I like other stuff too. Besides the casual stack: music, movies, reading - where I can never get to finish all the books I want to, I also play a couple of instruments, hit the gym six times a week, play squash, ocasionally run and as ocasionally get out in the nature.
+I love life, and I can never get bored. Besides tinkering with code I am also a human being, which means I like other stuff too, just the casual stack: music, movies, reading - where I can never get to finish all the books I want to. I also play a couple of instruments, hit the gym six times a week, play squash, ocasionally run and as ocasionally like to get out in the nature.
 
 
 
