@@ -33,7 +33,7 @@ __January 2017__ - __Present__ SDE @Amazon Prime Video
 
 __August 2012__ - "I laugh, you laugh, everybody laugh"
   - NGO project in partnership with 6 countries @Turkey, Trabzon
-  - PLayed guitar on national TV in Turkey, dream come true
+  - Played guitar on national TV in Turkey, dream come true
 
 __August 2018__ - "Excellence in Education" 
   - Summer school in partnership with Romanian Education Ministry
