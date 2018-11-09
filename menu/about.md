@@ -36,7 +36,9 @@ __August 2012__ - "I laugh, you laugh, everybody laugh"
   - Played guitar on national TV in Turkey, dream come true
 
 __August 2018__ - "Excellence in Education" 
-  - Summer school in partnership with Romanian Education Ministry
+  - Summer school in partnership with Romania's Ministry of Education
+  - Teaching focused on practicality, where I taught 30 high-school kids without propr programming knowledge how to code. 
+  - Built a browser [__2D JS game__](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
   
 __Septemeber 2018__ - "Fun code weekend"
   - While sipping a mug of coffee with my best friend [__Matei__](https://www.linkedin.com/in/matei-arsenie-8a6a12a7/) we were thrilled to find out it has been four months since any of us was on a date. As dating apps don't work, not for guys who are not willing to pay, we ... coded our way there. Used the opportunity to get familiar with webpack, babel, typescript & jest. [Here's a little bot](https://github.com/CristianStefanTutuianu/plusyou) for a popular dating site, Matei & I wrote on a rainy Saturday.
