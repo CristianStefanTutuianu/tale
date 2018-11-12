@@ -13,10 +13,10 @@ A few weeks ago I saw an idea on Medium which I felt for. It goes like this: Eac
 
 ## Approach
 
-As my week tends to be quite crammed, I will demote half of my free Sunday in favour of the challange. To keep the flow going I will dedicate between 30 and 60 minutes on all other weekdays. Thus I will dedicate approximately 10 hours per week for the challange. This leaves me with enough time for about 2 skills:
+As my week tends to be quite crammed, I will demote half of my free Sunday in favour of the challange. To keep the flow going I will dedicate between 30 and 60 minutes on all other weekdays. Thus I will dedicate approximately 10 hours per week for the challange. This leaves me with enough time for about 2 things:
 
+  - __Improve my creative writing__
   - __Public speaking__ - TEDx talk as a goal.
-  - __TBD__ if first round goes well
 
   
 
