@@ -15,8 +15,8 @@ __January 2017__ - __Present__ SDE @Amazon Prime Video
   - Launched Amazon Prime Video on AppleTV. [I hear people loved it, so much it was __most downloaded app at launch__](https://techcrunch.com/2017/12/19/amazons-prime-video-app-becomes-the-most-downloaded-apple-tv-app-to-date/?guccounter=1)
   - Gets into directly mentoring others, interns, new joiners.
   - Gets __promoted to SDE II__. Bigger problems, better problems.
-  - Strips down React Native, adapts to Prime Video rendering engines.
-  - Decides to be a manager
+  - Loaned to another team to strip down React Native and adapt the API to Prime Video rendering engines. Migrates old platform to React, launches it. 
+  - Gets back to his team, decides he wants to manage people.
   
 __September 2015__ - __December 2016__ Software Engineer @Metafused
   - Met [__Paul Maddox__](https://www.linkedin.com/in/paulmaddox/) - first manager & mentor. Great guy, awesome programmer, inspiring figure.
@@ -24,7 +24,8 @@ __September 2015__ - __December 2016__ Software Engineer @Metafused
   - Had fun!
   
 __July 2014__ Computer technician @TranquilPC
-  - Learned how fun computers are, but mostly clusters, which I built
+  - Learned how fun computers can be, but mostly clusters, which I built
+  - Burns his hands __soldering__, still had fun!
   
 __Septemeber 2013__ - __July 2016__ Student @University of Manchester
   - Gets a Bachelor in Computer Science
@@ -36,7 +37,7 @@ __Septemeber 2013__ - __July 2016__ Student @University of Manchester
 
 __August 2012__ - "I laugh, you laugh, everybody laughs"
   - NGO project in partnership with 6 countries @Turkey, Trabzon
-  - Played guitar on national TV in Turkey, dream come true
+  - Played __guitar on national TV in Turkey__, dream came true
 
 __August 2018__ - "Excellence in Education" 
   - Summer school in partnership with Romania's Ministry of Education
@@ -44,10 +45,10 @@ __August 2018__ - "Excellence in Education"
   - Built a browser [__2D JS game__](https://cristianstefantutuianu.github.io/labuldeinfo/src/level2.html)
   
 __Septemeber 2018__ - "Fun code weekend"
-  - While sipping a mug of coffee with my best friend [__Matei__](https://www.linkedin.com/in/matei-arsenie-8a6a12a7/) we were thrilled to find out it has been four months since any of us was on a date. As dating apps don't work, not for guys who are not willing to pay, we ... coded our way there. Used the opportunity to get familiar with webpack, babel, typescript & jest. [Here's a little bot](https://github.com/CristianStefanTutuianu/plusyou) for a popular dating site, Matei & I wrote on a rainy Saturday.
+  - While sipping a mug of coffee with my best friend [__Matei__](https://www.linkedin.com/in/matei-arsenie-8a6a12a7/) we were thrilled to find out it has been four months since any of us was on a date. As dating apps don't work, not for guys who are not willing to pay, we ... coded our way there. Used the opportunity to get familiar with webpack, babel, typescript & jest. [__Here's a swiping + messaging bot__](https://github.com/CristianStefanTutuianu/plusyou) for a popular dating site, Matei & I wrote on a rainy Saturday.
 
 __October 2018__ - "Building the next UX Prime Video application" 
-  - CS Talk - @University College London
+  - CS Talk - __@University College London__
 
 ## My stuff
 
