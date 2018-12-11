@@ -16,7 +16,7 @@ team and others.
 
 The problem with the above is that I soon found out that the people who I admired pushed maybe half the amount of code I was pushing. Yet they were really good at finding problems in the code I wrote. I wanted that for myself. 
 
-That’s when I set a new target: drive more business value with less code. A few months later I had a major win in splitting a health metric on a large scale service - 10+ millions of customers every day. It took me one line to transferred unclear ownership to established teams and also improve the OE diagnosis process leading to increased customer satisfaction.
+That’s when I set a new target: drive more business value with less code. A few months later I had a major win in splitting a health metric on a large scale service - 10+ millions of customers every day. It took me one line to transfer unclear ownership to established teams while also improving the OE diagnosis process leading to increased customer satisfaction.
 
-While there is a lot going on around the idea of simplicity - check out this site - https://less.works,  sometimes it might not tailor best for beginners. You have to fall into a pit at least once to learn how to climb one, right?! Hence, once you’ve master the basics - fallen into the pit, adopting simple thinking is the natural next step. Use it right and it will get you ahead of the crowd - in tiny, yet valuable steps.
+Today, there is a lot going on around the idea of simplicity - check this out - https://less.works. However, simplicity might not tailor best for beginners. You have to fall into a pit at least once to learn how to climb one, right?! Hence, once you’ve master the basics - fallen into the pit, adopting simple thinking is the natural next step. Use it right and it will get you ahead of the crowd - in tiny, yet valuable steps.
 
