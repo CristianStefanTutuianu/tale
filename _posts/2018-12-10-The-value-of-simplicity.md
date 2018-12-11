@@ -4,7 +4,7 @@ title: "Keep it simple!"
 author: "Stefan"
 categories: journal
 tags: [teaching, motivational]
-image: simple.png
+image: simple.jpg
 ---
 
 
